@@ -13,4 +13,4 @@ Após iniciar o projeto, você pode:
 3. Navegar pelos cards e clicar para viriá-los, testando seus conhecimentos.
 
    ## Créditos
-   Realizado por  Aluno 2B 
+   Realizado por um aluno gato e perfeito 2B 
