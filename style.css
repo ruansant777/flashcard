@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/carros-esportivos.jpeg');
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -61,7 +61,7 @@ body {
     font-weight: 700;
  }
 
-.cartao.active.cartao_conteudo {
+.cartao.active .cartao_conteudo {
     transform: rotateY(180deg);
 }
 
