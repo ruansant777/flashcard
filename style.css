@@ -1,20 +1,20 @@
 :root {
-    --text-color: #dbe4db;
-    --card-front-color: #144480;
-    --card-back-color: #0074bf;
+    --text-color: ##f6f8fa
+    --card-front-color: #fff8c5;
+    --card-back-color: ##9a6700;
 }
 
 body {
     background: url('img/bg-desktop.webp');
-    font-family: "Bai Jamjuree";
+    font-family: "Times New Roman", Times, serif;
 }
 
 #container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 4rem;
-    gap: 3rem;
+    padding: 8rem;
+    gap: 5rem;
 }
 
 .cartao{
@@ -81,8 +81,8 @@ body {
 }
 
  footer {
-    background-color: black;
-    color:aliceblue;
+    background-color: brown;
+    color:darkbrown;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -102,6 +102,7 @@ body {
 
   .cartao {
     flex: 1 0 calc(100% - 1rem);
+      height:45vw
   }
 
   .cartao-conteudo h3 {
