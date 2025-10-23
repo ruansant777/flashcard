@@ -1,25 +1,25 @@
 criaCartao (
     'Futebol',
-    'Qual o melhor jogador',
-    'Neymar'
+    'Quem é considerado o "Rei do Futebol"',
+    'Pelé'
 )
 
 criaCartao (
-    'Matemática',
-    'Qual número de pi?',
-    '3,14'
+    'Futebol',
+    'Quantos jogadoes tem uma equipe de futebol em campo, incluido o goleiro',
+    'Possui 11 jogadores'
 )
 
 criaCartao (
-    'Geografia',
-    'Qual é o maior deserto do mundo?',
-    'Deserto do Saara'
+    'Futebol',
+    'Qual time é conhecido como "Seleção Canarinho"',
+    'BRASIIIIIIIIIIIIIIL'
 )
 
 criaCartao (
-    'Química',
-    'Qual nome do elemento que possui H2O na fórmula',
-    'Água'
+    'Futebol',
+    'Qual nome da competição de futebol mais imortante entre clubes da Europa?',
+    'Liga dos Campeões da UEFA'
 )
 
 criaCartao (
